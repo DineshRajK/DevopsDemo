@@ -10,7 +10,8 @@ namespace DemoGit
     {
         public string sayHello()
         {
-            Console.WriteLine("Hi dinesh,This is dev ops");
+            Console.WriteLine("Hi dinesh");
+            Console.WriteLine("It is devops training");
             return "Hello";
         }
     }
